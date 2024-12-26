@@ -8,7 +8,7 @@
 <p align="center">⬇⬇⬇需要配合一下前端源码使用⬇⬇⬇</p>
 <p align="center">https://github.com/gaojima/zblog-baiduboxapp</p>
 
-<img src="https://github.com/gaojima/yuran_zixun/blob/main/202107041625356566325110.png?raw=true" align="center">
+<p align="center"><img src="https://github.com/gaojima/yuran_zixun/blob/main/202107041625356566325110.png?raw=true"></p>
 
 <h3 align="center">功能介绍</h2>
 <p align="center">大图展示样式切换</p>
